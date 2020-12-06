@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
 from datetime import date, datetime
-
+# HOLA
 config = {
     'user': 'drugslayer',
     'password': 'drugslayer_pwd',
